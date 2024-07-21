@@ -1,5 +1,4 @@
-// Ternery Operator
-
+// Task 14 (Ternery Operator)
 function positivenegativeChecker(a){
     if (a>0) {
         console.log(`${a} is a positive number`);
