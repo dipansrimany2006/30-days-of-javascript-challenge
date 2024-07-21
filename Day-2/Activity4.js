@@ -3,7 +3,7 @@
 let var1 = 8,
   var2 = 5;
 
-function andOperatorCheckor(a, b) {
+function andOperatorChecker(a, b) {
   if (a == 8 && b == 5) {
     console.log("Both contidions are correct");
   } else {
@@ -11,11 +11,11 @@ function andOperatorCheckor(a, b) {
   }
 }
 
-andOperatorCheckor(var1, var2);
+andOperatorChecker(var1, var2);
 
 (var1 = 5), (var2 = 3);
 
-andOperatorCheckor(var1, var2);
+andOperatorChecker(var1, var2);
 
 //Task 12  (Or operator)
 
