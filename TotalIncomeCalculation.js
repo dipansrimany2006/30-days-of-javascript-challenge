@@ -62,6 +62,7 @@ function extraAdded(yearEXP,basicSalary){
     }
 }
 
+// Passing the test cases
 TotalIncomeCalculation(12000,8);
 TotalIncomeCalculation(14000,4);
 TotalIncomeCalculation(8000,9);
