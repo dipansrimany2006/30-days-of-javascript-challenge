@@ -43,13 +43,13 @@ console.log(daCalculation(basicSalary) + taCalculation(basicSalary) + extraAdded
 
 function daCalculation(basicSalary){
     let da;
-da= basicSalary*(60.00/100);
+da= basicSalary*(60/100);
 return da;
 }
 
 function taCalculation(basicSalary){
     let ta;
-    ta = basicSalary*(10.00/100);
+    ta = basicSalary*(10/100);
     return ta;
 }
 
